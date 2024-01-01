@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Survey From</title>
-<style>body {width:100%; height :100vh; margin:0; background: rgb(250,230,170)}
+<style> body {width:100%; height :100vh; margin:0; background:rgb(250,230,170);}
 @media (min-width:500px) {body {width:100%; height:100%; overflow:hidden;  margin:0; background:rgb(250,230,170)}}
 
-h1, p {font-family :serif; text-align:center; font-size : 40px; margin:10px 0;}
+h1, p {font-family :serif; text-align:center; font-size :40px; margin:10px 0;}
 
 @media (max-width:500px) { h1, p {font-size:20px; margin:5px 0;}}
 
