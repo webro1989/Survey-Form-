@@ -66,10 +66,10 @@ min-height:2rem; min-width:300px; max-width:500px; font-size:1em;}}
       <fieldset>
 <label>Preferred Communication Channels</label>
 <label> <input class="inline" name="option-type" value="In-Person Conversations" type="radio"> In-Person Conversations</label>
-<label> <input class="inline" name="option-type" value="Digital Platforms" type="radio"> Digital Platforms</label>
-<label> <input class="inline" name="option-type" value="Written Correspondence" type="radio"> Written Correspondence</label>
-<label>Additional Comments:
-  <textarea rows="3" cols="30"></textarea>
+<label> <input class="inline" name="option-type" value="Digital Platforms" type="radio"> Digital Platforms </label>
+<label> <input class="inline" name="option-type" value="Written Correspondence" type="radio"> Written Correspondence </label>
+<label> Additional Comments:
+  <textarea rows="3" cols="30"></textarea> 
 </label>
 </fieldset>
 <input type="submit" id="submit">
